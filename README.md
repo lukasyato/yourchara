@@ -1,4 +1,5 @@
-# yourchara
+![yourchara](../sourcepicture/sourcepicture/yourcharabanner.png)
+
 yourchara is a simple software that shows your virtual character talking picture based on volume microphone.
 This software can be use on OBS Studio.
 
