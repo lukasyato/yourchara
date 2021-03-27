@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\yourchara\yourchara\obj\Debug\yourchara.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\yourchara\yourchara\obj\Debug\yourchara.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\yourchara\yourchara\obj\Debug\yourchara.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\yourchara\yourchara\obj\Debug\yourchara.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\yourchara\yourchara\bin\Debug\yourchara.exe
+c:\users\asus\documents\visual studio 2013\Projects\yourchara\yourchara\bin\Debug\yourchara.pdb
+c:\users\asus\documents\visual studio 2013\Projects\yourchara\yourchara\obj\Debug\yourchara.exe
+c:\users\asus\documents\visual studio 2013\Projects\yourchara\yourchara\obj\Debug\yourchara.pdb
